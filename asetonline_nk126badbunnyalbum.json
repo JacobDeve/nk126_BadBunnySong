@@ -1,302 +1,299 @@
-﻿
-{
-  "Data": [
-[
-    {
-        "id": "1",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Eladio Carrión Bad Bunny Kemba Walker",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-1.hO5EEIwLD5.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "2",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "El Mundo Es Mío El Último Tour Del Mundo",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-2.w9Z1g91if8.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "3",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "De Museo",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-3.0FJGzziRYJ.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "4",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Tu No Metes Cabra",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-4.1Eqx8HpsTE.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "5",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Enséñame A Bailar Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-5.vz8IufIXxV.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "6",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Bad Bunny Dos Mil 16 Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-6.ouZUBLUYho.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "7",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Bad Bunny Ft Rauw Alejandro Party Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-7.ol0d93ATut.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "8",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Booker T",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-8.f4RwSbi9iB.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "9",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Me Fui De Vacaciones Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-9.HsYjqTLggP.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "10",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Bad Bunny Ft The Marias Otro Atardecer Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-10.MH4tTfLX08.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "11",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Subimos De Rango Bad Bunny X Omy De Oro X Shootter Ledo",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-11.xm4gEkE5q6.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "12",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Después De La Playa Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-12.GPt0DCpYIL.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "13",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Bad Bunny Ft Chencho Corleone Me Porto Bonito Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-13.blN4rjE3Mo.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "14",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Bad Bunny Ft Jhay Cortez Tarot 360 Visualizer Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-14.1A5pxBAznM.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "15",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Bad Bunny X Anuel Aa Está Cabrón Ser Yo Yhlqmdlg",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-15.zNwvXnagYD.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "16",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Bad Bunny X Myke Towers Puesto Pa Guerrial Yhlqmdlg",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-16.qu9XyT787G.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "17",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Bad Bunny Ft Buscabulla Andrea Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-17.3l1QtVedLx.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "18",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Bad Bunny X Myke Towers Estamos Arriba",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-18.nyyhRutVZL.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "19",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Bad Bunny Tití Me Preguntó Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-19.aqTv1LlIs0.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "20",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "El Apagón Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-20.iTlZfMjNRL.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "21",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Un Ratito Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-21.jbDmCUa8HC.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "22",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Quién Tú Eres X100Pre Video Oficial",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-22.qojdhvXKUZ.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "23",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Moscow Mule Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-23.3NzVrfa67U.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "24",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Callaíta",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-24.sDsISVqhKL.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "25",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Bad Bunny Agosto Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-25.M63VjH6cIs.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "26",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Un Verano Sin Ti Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-26.2N9MjJQqHE.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "27",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Efecto Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-27.O5hjB3Sdey.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "28",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Luar La L 100 Millones Visualizer",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-28.mJaZPI9cxF.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "29",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Aguacero Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-29.4yQuyopgiH.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "30",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Pacho Daddy Yankee Bad Bunny Como Soy",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-30.dI5i1D8wpc.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "31",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Yo No Soy Celoso Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-31.zduil28nZh.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "32",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Bad Bunny Ft Tony Dize La Corriente Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-32.NVvla5LDGB.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "33",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Neverita Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-33.TxjusfCJtb.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "34",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Bad Bunny Un Coco Un Verano Sin Ti",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-34.Kv7I089nCJ.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "35",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Hoy Cobré",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-35.xC2qQDL13h.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "36",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Bad Bunny Ft Bomba Estéreo Ojitos Lindos",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-36.6G8QIGNCQm.ogg",
-        "lyrics": ""
-    },
-    {
-        "id": "37",
-        "name_category": "Bad Bunny Album Musica",
-        "title": "Arcangel X Bad Bunny X Dj Luian X Mambo Kingz Tu No Vive Asi",
-        "image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
-        "link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-37.dYyme3H5MY.ogg"
-    }
-]
-
+﻿{
+	"Data": [
+		{
+			"id": "1",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Eladio Carrión Bad Bunny Kemba Walker",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-1.hO5EEIwLD5.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "2",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "El Mundo Es Mío El Último Tour Del Mundo",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-2.w9Z1g91if8.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "3",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "De Museo",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-3.0FJGzziRYJ.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "4",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Tu No Metes Cabra",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-4.1Eqx8HpsTE.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "5",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Enséñame A Bailar Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-5.vz8IufIXxV.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "6",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Bad Bunny Dos Mil 16 Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-6.ouZUBLUYho.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "7",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Bad Bunny Ft Rauw Alejandro Party Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-7.ol0d93ATut.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "8",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Booker T",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-8.f4RwSbi9iB.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "9",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Me Fui De Vacaciones Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-9.HsYjqTLggP.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "10",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Bad Bunny Ft The Marias Otro Atardecer Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-10.MH4tTfLX08.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "11",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Subimos De Rango Bad Bunny X Omy De Oro X Shootter Ledo",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-11.xm4gEkE5q6.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "12",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Después De La Playa Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-12.GPt0DCpYIL.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "13",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Bad Bunny Ft Chencho Corleone Me Porto Bonito Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-13.blN4rjE3Mo.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "14",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Bad Bunny Ft Jhay Cortez Tarot 360 Visualizer Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-14.1A5pxBAznM.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "15",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Bad Bunny X Anuel Aa Está Cabrón Ser Yo Yhlqmdlg",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-15.zNwvXnagYD.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "16",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Bad Bunny X Myke Towers Puesto Pa Guerrial Yhlqmdlg",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-16.qu9XyT787G.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "17",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Bad Bunny Ft Buscabulla Andrea Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-17.3l1QtVedLx.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "18",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Bad Bunny X Myke Towers Estamos Arriba",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-18.nyyhRutVZL.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "19",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Bad Bunny Tití Me Preguntó Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-19.aqTv1LlIs0.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "20",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "El Apagón Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-20.iTlZfMjNRL.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "21",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Un Ratito Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-21.jbDmCUa8HC.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "22",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Quién Tú Eres X100Pre Video Oficial",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-22.qojdhvXKUZ.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "23",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Moscow Mule Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-23.3NzVrfa67U.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "24",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Callaíta",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-24.sDsISVqhKL.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "25",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Bad Bunny Agosto Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-25.M63VjH6cIs.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "26",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Un Verano Sin Ti Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-26.2N9MjJQqHE.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "27",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Efecto Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-27.O5hjB3Sdey.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "28",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Luar La L 100 Millones Visualizer",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-28.mJaZPI9cxF.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "29",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Aguacero Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-29.4yQuyopgiH.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "30",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Pacho Daddy Yankee Bad Bunny Como Soy",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-30.dI5i1D8wpc.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "31",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Yo No Soy Celoso Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-31.zduil28nZh.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "32",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Bad Bunny Ft Tony Dize La Corriente Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-32.NVvla5LDGB.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "33",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Neverita Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-33.TxjusfCJtb.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "34",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Bad Bunny Un Coco Un Verano Sin Ti",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-34.Kv7I089nCJ.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "35",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Hoy Cobré",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-35.xC2qQDL13h.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "36",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Bad Bunny Ft Bomba Estéreo Ojitos Lindos",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-36.6G8QIGNCQm.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": "37",
+			"name_category": "Bad Bunny Album Musica",
+			"title": "Arcangel X Bad Bunny X Dj Luian X Mambo Kingz Tu No Vive Asi",
+			"image": "https://5jacobdev.xyz/nk126-BadBunny/126.image_PLAY1.jpg",
+			"link_mp3": "https://5jacobdev.xyz/nk126-BadBunny/126-37.dYyme3H5MY.ogg"
+		}
+	]
 }
